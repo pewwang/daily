@@ -1,2 +1,1 @@
-# daily
-Daily code
+日常同步代码
